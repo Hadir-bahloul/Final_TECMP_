@@ -1,0 +1,6 @@
+[requires]
+yaml-cpp/0.8.0
+pcapplusplus/23.09@
+[generators]
+cmake_find_package
+cmake
