@@ -41,3 +41,10 @@ cmake .. ^
 
 # Build the executable
 cmake --build . --config RelWithDebInfo
+🔍 Output
+After a successful build, the binary will be located at:
+
+swift
+Copier
+Modifier
+build/RelWithDebInfo/HW_Controller_UI.exe
